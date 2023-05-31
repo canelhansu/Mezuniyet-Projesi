@@ -4,7 +4,4 @@ Kandilli Rasathanesinden veri akışı sağlayarak deprem olduğu zaman Whatsapp
 Gerekli Modüllerin Kurulumu
 ---------------------------
 
-npm i qrcode-terminal<br>
-npm i whatsapp-web.js
-npm i axios
-npm i cheerio
+npm i qrcode-terminal whatsapp-web.js axios cheerio
